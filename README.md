@@ -11,7 +11,7 @@
  
 🔭 I’m currently working on **a Road-Lane Assist System**
  
-🌱 I’m currently learning **AWS, BlockChain**
+🌱 I’m currently learning **Java Script, AWS**
 
 💬 Ask me about **Python, MySQL**
 
