@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SIVA+ANNAM!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h4 align="center">Seeking a role in a dynamic company where I can contribute my ideas and be mentored toward a successful career. Aspire to bring innovation and dedication to the team, fostering an environment of growth and success.</h4>
 
 <br/>
 
@@ -11,7 +11,7 @@
  
 🔭 I’m currently working on **a Road-Lane Assist System**
  
-🌱 I’m currently learning **JavaScript, AWS**
+🌱 I’m currently learning **AWS, BlockChain**
 
 💬 Ask me about **Python, MySQL**
 
